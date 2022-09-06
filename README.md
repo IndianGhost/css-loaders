@@ -7,8 +7,6 @@
 - Open the HTML file, you can find every loader in a div tag or span with a hidden attribute.
 - Remove this attribute in order to view the loader, copy/paste into your project and its css style.
 
-## Con
-
 ## Copyright and license
 Copyright 2022 Achraf BELLAALI **css-loaders** is a free open-source project. The code is released under [The MIT LICENSE](https://github.com/IndianGhost/css-loaders/blob/main/LICENSE) you can do whatever you want with it !
 
